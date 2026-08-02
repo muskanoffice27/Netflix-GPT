@@ -11,8 +11,11 @@
 - Validation
 - Firebase SetUp
 - Deploying our app to production
-- Create SignUp User Account and then Sign in
--  Put our data in Redux store
+- Create SignUp User Account 
+- Implement SignIn user api
+- Create Redux Store with userSlice
+- Implement Sign Out
+- Update Profile
 
 
 # Features
